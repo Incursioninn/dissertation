@@ -1,0 +1,143 @@
+{
+  "targets": {
+    "браузер": {
+      "mode": "url",
+      "value": "https://ya.ru",
+      "aliases": [
+        "яндекс",
+        "yandex",
+        "интернет"
+      ]
+    },
+    "блокнот": {
+      "mode": "command",
+      "value": "notepad.exe",
+      "aliases": [
+        "notepad"
+      ]
+    },
+    "ютуб": {
+      "mode": "url",
+      "value": "https://www.youtube.com",
+      "aliases": [
+        "youtube"
+      ]
+    },
+    "гугл": {
+      "mode": "url",
+      "value": "https://www.google.com",
+      "aliases": [
+        "google"
+      ]
+    },
+    "телеграм": {
+      "mode": "paths",
+      "value": [
+        "%APPDATA%\\Telegram Desktop\\Telegram.exe",
+        "%LOCALAPPDATA%\\Telegram Desktop\\Telegram.exe"
+      ],
+      "aliases": [
+        "telegram"
+      ]
+    },
+    "стим": {
+      "mode": "paths",
+      "value": [
+        "C:\\Program Files (x86)\\Steam\\steam.exe",
+        "C:\\Program Files\\Steam\\steam.exe"
+      ],
+      "aliases": [
+        "steam"
+      ]
+    },
+    "игру": {
+      "mode": "path",
+      "value": "C:\\Users\\lasta\\AppData\\Local\\Kingsoft\\WPS Office\\12.1.0.25242\\office6\\wps.exe",
+      "aliases": []
+    },
+    "амнезию": {
+      "mode": "path",
+      "value": "C:\\Program Files\\AmneziaVPN\\AmneziaVPN.exe",
+      "aliases": []
+    },
+    "альт": {
+      "mode": "macro",
+      "value": [
+        {
+          "mode": "delay",
+          "value": 3.868
+        },
+        {
+          "mode": "key_down",
+          "value": "alt"
+        },
+        {
+          "mode": "delay",
+          "value": 0.099
+        },
+        {
+          "mode": "key_down",
+          "value": "tab"
+        },
+        {
+          "mode": "delay",
+          "value": 0.122
+        },
+        {
+          "mode": "key_up",
+          "value": "alt"
+        },
+        {
+          "mode": "key_up",
+          "value": "tab"
+        },
+        {
+          "mode": "delay",
+          "value": 0.398
+        },
+        {
+          "mode": "key_down",
+          "value": "alt"
+        },
+        {
+          "mode": "delay",
+          "value": 0.128
+        },
+        {
+          "mode": "key_down",
+          "value": "tab"
+        },
+        {
+          "mode": "delay",
+          "value": 0.101
+        },
+        {
+          "mode": "key_up",
+          "value": "alt"
+        },
+        {
+          "mode": "key_up",
+          "value": "tab"
+        }
+      ],
+      "aliases": []
+    }
+  },
+  "folders": {
+    "загрузки": {
+      "mode": "folder",
+      "value": "%USERPROFILE%\\Downloads",
+      "aliases": [
+        "папку загрузки",
+        "downloads"
+      ]
+    },
+    "документы": {
+      "mode": "folder",
+      "value": "%USERPROFILE%\\Documents",
+      "aliases": [
+        "documents"
+      ]
+    }
+  }
+}

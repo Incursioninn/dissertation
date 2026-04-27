@@ -1,0 +1,1526 @@
+[
+  {
+    "phrase": "открой браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой сайт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "можешь открыть браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "пожалуйста запусти блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "давай открой телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "напечатай привет мир",
+    "intent": "type_text"
+  },
+  {
+    "phrase": "напечатай текст",
+    "intent": "type_text"
+  },
+  {
+    "phrase": "введи текст",
+    "intent": "type_text"
+  },
+  {
+    "phrase": "напиши текст",
+    "intent": "type_text"
+  },
+  {
+    "phrase": "введи привет",
+    "intent": "type_text"
+  },
+  {
+    "phrase": "сколько время",
+    "intent": "get_time"
+  },
+  {
+    "phrase": "который час",
+    "intent": "get_time"
+  },
+  {
+    "phrase": "скажи время",
+    "intent": "get_time"
+  },
+  {
+    "phrase": "подскажи время",
+    "intent": "get_time"
+  },
+  {
+    "phrase": "какая сегодня дата",
+    "intent": "get_date"
+  },
+  {
+    "phrase": "какой сегодня день",
+    "intent": "get_date"
+  },
+  {
+    "phrase": "скажи дату",
+    "intent": "get_date"
+  },
+  {
+    "phrase": "сделай громче",
+    "intent": "volume_up"
+  },
+  {
+    "phrase": "увеличь громкость",
+    "intent": "volume_up"
+  },
+  {
+    "phrase": "подними громкость",
+    "intent": "volume_up"
+  },
+  {
+    "phrase": "сделай тише",
+    "intent": "volume_down"
+  },
+  {
+    "phrase": "убавь громкость",
+    "intent": "volume_down"
+  },
+  {
+    "phrase": "уменьши громкость",
+    "intent": "volume_down"
+  },
+  {
+    "phrase": "выключи звук",
+    "intent": "volume_mute"
+  },
+  {
+    "phrase": "отключи звук",
+    "intent": "volume_mute"
+  },
+  {
+    "phrase": "заглуши звук",
+    "intent": "volume_mute"
+  },
+  {
+    "phrase": "переключи окно",
+    "intent": "switch_window"
+  },
+  {
+    "phrase": "переключи приложение",
+    "intent": "switch_window"
+  },
+  {
+    "phrase": "альт таб",
+    "intent": "switch_window"
+  },
+  {
+    "phrase": "открой загрузки",
+    "intent": "open_folder"
+  },
+  {
+    "phrase": "открой папку загрузки",
+    "intent": "open_folder"
+  },
+  {
+    "phrase": "открой документы",
+    "intent": "open_folder"
+  },
+  {
+    "phrase": "создай файл на рабочем столе",
+    "intent": "create_file"
+  },
+  {
+    "phrase": "создай заметку",
+    "intent": "create_file"
+  },
+  {
+    "phrase": "напомни через пять минут",
+    "intent": "set_reminder"
+  },
+  {
+    "phrase": "напомни через десять минут",
+    "intent": "set_reminder"
+  },
+  {
+    "phrase": "создай напоминание",
+    "intent": "set_reminder"
+  },
+  {
+    "phrase": "что ты знаешь",
+    "intent": "list_targets"
+  },
+  {
+    "phrase": "список программ",
+    "intent": "list_targets"
+  },
+  {
+    "phrase": "какие программы ты знаешь",
+    "intent": "list_targets"
+  },
+  {
+    "phrase": "покажи список команд",
+    "intent": "list_targets"
+  },
+  {
+    "phrase": "удали программу",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь программу",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "удали телеграм",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь телеграм",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "да",
+    "intent": "confirm"
+  },
+  {
+    "phrase": "да запомни",
+    "intent": "confirm"
+  },
+  {
+    "phrase": "запомни",
+    "intent": "confirm"
+  },
+  {
+    "phrase": "да правильно",
+    "intent": "confirm"
+  },
+  {
+    "phrase": "нет",
+    "intent": "reject"
+  },
+  {
+    "phrase": "отмена",
+    "intent": "reject"
+  },
+  {
+    "phrase": "не надо",
+    "intent": "reject"
+  },
+  {
+    "phrase": "ничего",
+    "intent": "none"
+  },
+  {
+    "phrase": "игнорируй",
+    "intent": "none"
+  },
+  {
+    "phrase": "научись действию",
+    "intent": "learn_macro"
+  },
+  {
+    "phrase": "запомни действие",
+    "intent": "learn_macro"
+  },
+  {
+    "phrase": "создай действие",
+    "intent": "learn_macro"
+  },
+  {
+    "phrase": "научись действию переключить окно",
+    "intent": "learn_macro"
+  },
+  {
+    "phrase": "готово",
+    "intent": "finish_recording"
+  },
+  {
+    "phrase": "закончил",
+    "intent": "finish_recording"
+  },
+  {
+    "phrase": "останови запись",
+    "intent": "finish_recording"
+  },
+  {
+    "phrase": "запусти google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали google",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь google",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери google",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри google",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "открой notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали notepad",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь notepad",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери notepad",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри notepad",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "открой steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали steam",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь steam",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери steam",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри steam",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "открой telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали telegram",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь telegram",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери telegram",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри telegram",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "открой yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали yandex",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь yandex",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери yandex",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри yandex",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "запусти youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали youtube",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь youtube",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери youtube",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри youtube",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "стартани блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали блокнот",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь блокнот",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери блокнот",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри блокнот",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "стартани браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали браузер",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь браузер",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери браузер",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри браузер",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "запусти гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали гугл",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь гугл",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери гугл",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри гугл",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "открой интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали интернет",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь интернет",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери интернет",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри интернет",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "стартани стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали стим",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь стим",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери стим",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри стим",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "стартани телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "убери телеграм",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри телеграм",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "запусти ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали ютуб",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь ютуб",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери ютуб",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри ютуб",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "запусти яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали яндекс",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь яндекс",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "убери яндекс",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри яндекс",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "открой игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали игру",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь игру",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "стр тони игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "убери игру",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри игру",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "вы игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии игру",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали амнезию",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь амнезию",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "вы google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии google",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии notepad",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии steam",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии telegram",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии yandex",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии youtube",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стр тони амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии амнезию",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "убери амнезию",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри амнезию",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "вы блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии блокнот",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии браузер",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии гугл",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии интернет",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии стим",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии телеграм",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии ютуб",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии яндекс",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открой альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запусти альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартани альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "включи альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "загрузи альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "активируй альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "открыть альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "запустить альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "удали альт",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "забудь альт",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "стр тони альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старта они альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "старт альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "стартуй альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "вы альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "выпей альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "японии альт",
+    "intent": "open_target"
+  },
+  {
+    "phrase": "убери альт",
+    "intent": "delete_target"
+  },
+  {
+    "phrase": "сотри альт",
+    "intent": "delete_target"
+  }
+]

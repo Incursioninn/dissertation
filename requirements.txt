@@ -1,0 +1,12 @@
+vosk
+sounddevice
+numpy
+pyttsx3
+pyautogui
+torch
+psutil
+keyboard
+scikit-learn
+matplotlib
+
+pynput

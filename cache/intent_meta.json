@@ -1,0 +1,26 @@
+{
+  "dataset_hash": "d9aaeee223555ab5abcedf70770665b7ff2a727b1fe897db5698c74b46b6c3aa",
+  "vocab_size": 117,
+  "intents": [
+    "open_target",
+    "type_text",
+    "get_time",
+    "get_date",
+    "volume_up",
+    "volume_down",
+    "volume_mute",
+    "switch_window",
+    "open_folder",
+    "create_file",
+    "set_reminder",
+    "list_targets",
+    "delete_target",
+    "learn_macro",
+    "finish_recording",
+    "confirm",
+    "reject",
+    "none"
+  ],
+  "architecture": "Embedding+GRU",
+  "max_sequence_length": 12
+}
